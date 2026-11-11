@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+--- Starting FsmDetect Simulation ---
+Cycle | serial_in | state | unlock
+  1   |     1     |  01   |   0
+  2   |     0     |  10   |   0
+  3   |     1     |  11   |   1
+  4   |     0     |  10   |   0
+  5   |     1     |  11   |   1
+$finish called at time : 86 ns : File "C:/Users/Dawson/Desktop/School/ECE2700/Lab9/Lab9Repository/Lab9/Lab9.srcs/sources_1/new/tb_FsmDetect.v" Line 43

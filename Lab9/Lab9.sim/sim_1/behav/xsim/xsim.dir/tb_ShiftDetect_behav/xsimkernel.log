@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_ShiftDetect_behav/xsimk.exe -simmode gui -wdb tb_ShiftDetect_behav.wdb -simrunnum 0 -socket 56535
+Design successfully loaded
+Design Loading Memory Usage: 18860 KB (Peak: 18860 KB)
+Design Loading CPU Usage: 140 ms
+Simulation completed
+Simulation Memory Usage: 19832 KB (Peak: 19832 KB)
+Simulation CPU Usage: 171 ms
